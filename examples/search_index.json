@@ -1,0 +1,664 @@
+{
+  "index": {
+    "services": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 1
+    },
+    "decisions": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 2
+      },
+      "document_frequency": 1
+    },
+    "training": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 1
+    },
+    "friendly": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "can": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1,
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 2
+    },
+    "being": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1,
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 2
+    },
+    "learn": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 1
+    },
+    "formatter": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "type": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "build": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1,
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1,
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 3
+    },
+    "completion": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "patterns": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 1
+    },
+    "common": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 1
+    },
+    "segfaults": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "prevents": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "minimal": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 1
+    },
+    "characteristics": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 1
+    },
+    "predictions": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 1
+    },
+    "analysis": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 1
+    },
+    "editor": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "language": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 2
+      },
+      "document_frequency": 1
+    },
+    "security": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 1
+    },
+    "safe": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "algorithms": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 1
+    },
+    "development": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 2
+      },
+      "document_frequency": 1
+    },
+    "from": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 1
+    },
+    "fast": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1,
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 2
+    },
+    "make": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 2,
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 2
+    },
+    "notch": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "package": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "accomplishes": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "great": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "multi": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "warp": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 1
+    },
+    "web": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 6
+      },
+      "document_frequency": 1
+    },
+    "goals": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "building": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 1
+    },
+    "systems": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1,
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 2
+    },
+    "model": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 2
+      },
+      "document_frequency": 1
+    },
+    "analytical": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 1
+    },
+    "collection": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "manager": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "auto": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 2
+      },
+      "document_frequency": 1
+    },
+    "popular": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 1
+    },
+    "using": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "increasingly": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 1
+    },
+    "intelligence": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 1
+    },
+    "method": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 1
+    },
+    "explicitly": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 1
+    },
+    "idea": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 1
+    },
+    "messages": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "excellent": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 1
+    },
+    "thread": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "choice": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 1
+    },
+    "rocket": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 1
+    },
+    "high": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 1
+    },
+    "branch": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 1
+    },
+    "without": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1,
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 2
+    },
+    "programmed": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 1
+    },
+    "error": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "blazingly": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "runs": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "fundamentals": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 1
+    },
+    "tool": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "integrated": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "support": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "inspections": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "performance": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 2
+      },
+      "document_frequency": 1
+    },
+    "becoming": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 1
+    },
+    "artificial": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 1
+    },
+    "order": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 1
+    },
+    "guarantees": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1,
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 2
+    },
+    "garbage": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "programming": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 2
+      },
+      "document_frequency": 1
+    },
+    "automates": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 1
+    },
+    "smart": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "safety": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1,
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 2
+    },
+    "developers": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 1
+    },
+    "applications": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 2
+      },
+      "document_frequency": 1
+    },
+    "top": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "rust": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 3,
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 3
+      },
+      "document_frequency": 2
+    },
+    "more": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "like": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 1
+    },
+    "compiler": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "actix": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 1
+    },
+    "learning": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 3
+      },
+      "document_frequency": 1
+    },
+    "sample": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 1
+    },
+    "documentation": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "memory": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1,
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 2
+    },
+    "vulnerabilities": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 1
+    },
+    "secure": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 1
+    },
+    "known": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 1
+    },
+    "intervention": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 1
+    },
+    "data": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 4
+      },
+      "document_frequency": 1
+    },
+    "found": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 1
+    },
+    "frameworks": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 1
+    },
+    "identify": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 1
+    },
+    "prevent": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 1
+    },
+    "human": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 1
+      },
+      "document_frequency": 1
+    },
+    "useful": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "help": {
+      "term_frequency": {
+        "7b5d354a-5f03-4b6a-ac02-bc4b51094495": 1
+      },
+      "document_frequency": 1
+    },
+    "machine": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 3
+      },
+      "document_frequency": 1
+    },
+    "tooling": {
+      "term_frequency": {
+        "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": 1
+      },
+      "document_frequency": 1
+    },
+    "based": {
+      "term_frequency": {
+        "48c78c47-e3ac-4410-a68b-da9b777652bb": 2
+      },
+      "document_frequency": 1
+    }
+  },
+  "documents": {
+    "7b5d354a-5f03-4b6a-ac02-bc4b51094495": {
+      "id": "7b5d354a-5f03-4b6a-ac02-bc4b51094495",
+      "title": "doc3",
+      "content": "Web Development with Rust\nRust is becoming increasingly popular for web development. With frameworks like Actix-web, Warp, and Rocket, developers can build fast and secure web applications.\n\nThe performance characteristics of Rust make it an excellent choice for high-performance web services. Memory safety guarantees help prevent common security vulnerabilities found in web applications.\n",
+      "path": "examples/sample_docs/doc3.txt",
+      "word_count": 53
+    },
+    "48c78c47-e3ac-4410-a68b-da9b777652bb": {
+      "id": "48c78c47-e3ac-4410-a68b-da9b777652bb",
+      "title": "doc2",
+      "content": "Machine Learning Fundamentals\nMachine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.\n\nMachine learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so.\n",
+      "path": "examples/sample_docs/doc2.txt",
+      "word_count": 70
+    },
+    "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4": {
+      "id": "9f51168b-b3d0-4cbe-8ff3-b44bc6dabef4",
+      "title": "doc1",
+      "content": "Rust Programming Language\nRust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. It accomplishes these goals by being memory safe without using garbage collection.\n\nRust has great documentation, a friendly compiler with useful error messages, and top-notch tooling — an integrated package manager and build tool, smart multi-editor support with auto-completion and type inspections, an auto-formatter, and more.\n",
+      "path": "examples/sample_docs/doc1.txt",
+      "word_count": 65
+    }
+  },
+  "total_documents": 3
+}
