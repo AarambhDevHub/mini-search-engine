@@ -188,7 +188,7 @@ mini-search-engine/
 ### Installation
 
 ```
-git clone <your-repo>
+git clone https://github.com/AarambhDevHub/mini-search-engine.git
 cd mini-search-engine
 cargo build --release
 ```
@@ -398,9 +398,12 @@ CMD ["search-cli", "server", "3030"]
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## ☕ Support the Project
-If you find this project helpful, consider buying me a coffee!
-[Buy Me a Coffee](https://buymeacoffee.com/aarambhdevhub)
+## ☕ Support & Community
+
+If you find Ignitia helpful, consider supporting the project:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aarambhdevhub)
+
 
 ## 🙏 Acknowledgments
 
